@@ -698,8 +698,8 @@ SOFTWARE.
 
 **Proje Sahibi:** [Adınız]
 
-- 📧 Email: [email@example.com]
-- 🐙 GitHub: [@kullaniciadi](https://github.com/kullaniciadi)
+- 📧 Email: [onderfazli59@gmail.com.com]
+- 🐙 GitHub: [@kullaniciadi](https://github.com/fazliefee)
 - 💼 LinkedIn: [linkedin.com/in/profiliniz](https://linkedin.com/in/profiliniz)
 
 **Proje Linki:** [https://github.com/kullaniciadi/bigisayar_goru_odev3](https://github.com/kullaniciadi/bigisayar_goru_odev3)
@@ -762,4 +762,5 @@ SOFTWARE.
 Made with ❤️ by [Adınız]
 
 </div>
+
 
