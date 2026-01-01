@@ -612,27 +612,6 @@ image.astype(np.uint8)  # uint8 formatına dönüştür
 
 ---
 
-## 📸 Örnek Çıktılar
-
-### Parlaklık Ayarlama Karşılaştırması
-
-| Orijinal | Parlaklık +50 | Parlaklık -50 |
-|----------|---------------|---------------|
-| ![Original](images/lenna.png) | ![Bright](results/brightness_adjusted.png) | ![Dark](results/brightness_adjusted.png) |
-
-### Kontrast İşlemleri
-
-| Kontrast Ayarlama | Kontrast Germe | Histogram Eşitleme |
-|-------------------|----------------|---------------------|
-| ![Contrast](results/contrast_adjusted.png) | ![Stretch](results/contrast_stretched.png) | ![Equalized](results/equalized_image.png) |
-
-### Diğer İşlemler
-
-| Negatif | Eşikleme | Gamma Düzeltmesi |
-|---------|----------|------------------|
-| ![Negative](results/negative_image.png) | ![Threshold](results/thresholded_image.png) | ![Gamma](results/gamma_corrected.png) |
-
----
 
 ## 🧪 Test ve Doğrulama
 
@@ -783,3 +762,4 @@ SOFTWARE.
 Made with ❤️ by [Adınız]
 
 </div>
+
